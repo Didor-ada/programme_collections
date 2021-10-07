@@ -325,6 +325,11 @@ namespace programme_collections
 
         }
 
+        static void PassageValeursOuRef()
+        {
+
+        }
+
         static void Main(string[] args) // avec ce args on va récupérer des arguments
         {
             // Tableaux();
@@ -333,7 +338,8 @@ namespace programme_collections
             // ListesDeListes();
             // Dictionnaire();
             // BoucleForEach();
-            TrisEtLinq();
+            // TrisEtLinq();
+            PassageValeursOuRef();
         }
     }
 }
